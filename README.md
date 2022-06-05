@@ -24,4 +24,4 @@ CP2106 is a CS module at the National University of Singapore, which constitutes
 
 
 ## Visitor Count
-![Visitor Count](https://profile-counter.glitch.me/kxrt/count.svg)
+This profile has been visited ![Visitor Count](https://profile-counter.glitch.me/kxrt/count.svg) times.
