@@ -21,3 +21,7 @@ CP2106 is a CS module at the National University of Singapore, which constitutes
 * Adobe Photoshop
 * Adobe Illustrator
 * Figma (Prototyping and Wireframing)
+
+
+## Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/kxrt/count.svg)
