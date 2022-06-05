@@ -23,5 +23,5 @@ CP2106 is a CS module at the National University of Singapore, which constitutes
 * Figma (Prototyping and Wireframing)
 
 
-## Visitor Count
-This profile has been visited ![Visitor Count](https://profile-counter.glitch.me/kxrt/count.svg) times.
+## Profile Visitor Count
+![Visitor Count](https://profile-counter.glitch.me/kxrt/count.svg)
