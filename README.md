@@ -4,6 +4,11 @@
 
 My resume is available [here](https://kxrt.me/Kartikeya_Resume.pdf). For any questions, feel free to reach out to me through my [LinkedIn profile](https://www.linkedin.in/in/kvrtikeya). You can also view my [business card](https://github.com/kxrt/business-card) in your own terminal by running the following commmand: `npx kxrt`.
 
+# Open Source Contributions
+
+nodejs/nodejs.dev#2950: Fixed a bug where the LTS download button was unusable for a period of time whenever major version overhauls were in progress.
+
+
 # Projects
 ### Juniors Club Project - Google Developer Student Clubs NUS (GDSC-NUS)
 I am part of a team of 15 other software engineers building a learning and content management system for FoodBank Singapore, to revolutionise in-person and digital teaching programs around food security. Check out the codebase [here](https://github.com/Project-Juniors-Club/jc-app).
