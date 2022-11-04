@@ -4,13 +4,13 @@
 
 I'm a computer science undergraduate at the National University of Singapore. My interests are in **full-stack web development** and **software engineering**. My resume is available [here](https://kxrt.me/Kartikeya_Resume.pdf). For any questions, feel free to reach out to me through my [LinkedIn profile](https://www.linkedin.in/in/kvrtikeya). You can also view my [business card](https://github.com/kxrt/business-card) in your own terminal by running the following commmand: `npx kxrt`.
 
-<details open>
+<details>
   <summary><h3>Open Source Contributions</h3></summary>
   
 * nodejs/nodejs.dev#2950: Fixed a bug where the LTS download button was unusable for a period of time whenever major version overhauls were in progress.
 </details>
 
-<details open>
+<details>
   <summary><h3>Projects</h3></summary>
   
 ### Juniors Club Project - Google Developer Student Clubs NUS (GDSC-NUS)
