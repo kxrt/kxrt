@@ -7,7 +7,7 @@ I'm a computer science undergraduate at the National University of Singapore. My
 <details>
   <summary><b>Open Source Contributions</b></summary>
   
-* nodejs/nodejs.dev#2950: Fixed a bug where the LTS download button was unusable for a period of time whenever major version overhauls were in progress.
+* nodejs/nodejs.dev#2950: Fixed a bug where the download button was unusable for a period of time whenever major version overhauls were in progress.
 </details>
 
 <details>
